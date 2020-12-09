@@ -1,4 +1,4 @@
-﻿# AzPWPush
+﻿# PowerShell Typosquat
 
 A PowerShell based typosquatting tool based on the work of O365Squad here: https://github.com/O365Squad/O365-Squatting.
 
